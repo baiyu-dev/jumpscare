@@ -15,4 +15,5 @@ JUMPSCARE.html can be downloaded to play the game offline, while jumpscare_sourc
 DungeonScript editor.
 
 You can use the DungeonScript editor here: http://dungeonscript.farbs.org
+
 DungeonScript is based off of PuzzleScript: https://www.puzzlescript.net
